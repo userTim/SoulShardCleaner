@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Soul shard cleaner
+## Notes: After you get out of combat, auto clears inventory from excessive soul shards
+## Version: 1.0
+## Author: userTim
+## SavedVariables: SoulShardCleanerDB
+
+SoulShardCleaner.lua
